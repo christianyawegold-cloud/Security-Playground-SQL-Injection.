@@ -16,6 +16,7 @@ By injecting a specific SQL payload (`' OR '1'='1`) into the username/password f
 ## 📸 Proof of Concept (PoC)
 1. **The Vulnerable Code:** *<img width="572" height="17" alt="Screenshot 2026-10-04 185554" src="https://github.com/user-attachments/assets/06665e43-1e6c-4294-93f3-c4cf8d4332bc" />
 
-2. **The Attack Execution:** *<img width="756" height="45" alt="Screenshot 2026-10-04 185759" src="https://github.com/user-attachments/assets/29c3ab84-f1c8-45d7-b40f-cce6ad913fde" />
+2. **The Attack Execution:** <img width="700" height="18" alt="image" src="https://github.com/user-attachments/assets/5fca9977-f166-4d8a-b41e-e99351f7d7fc" />
+
 
 3. **Successful Bypass:** *<img width="765" height="66" alt="image" src="https://github.com/user-attachments/assets/4fddc3b3-368c-49d7-8b9e-81e6c3497e7f" />
